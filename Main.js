@@ -15,7 +15,7 @@ app.get('/listUsers', function (req, res) {
 });
 
 app.get('/greeting', function (req, res) {
-   console.log("Welcome to Kallo's world");
+   console.log("Welcome to Kallol's world");
    res.end("Welcome to Kallol's world");
 });
 
