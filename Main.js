@@ -15,7 +15,7 @@ app.get('/listUsers', function (req, res) {
 });
 
 app.get('/greeting', function (req, res) {
-   console.log("Welcome to Kallol's world on 13th May - 2");
+   console.log("Welcome to Kallol's world on 13th May - 3");
    res.end("Welcome to Kallol's world");
 });
 
